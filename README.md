@@ -1,3 +1,5 @@
+[![Board Status](https://dev.azure.com/AbhinavDemoOrg/2edf3317-0861-44f1-b915-cfef10ca9971/3adaa1e9-9fd6-4c8c-843b-11b2e40a684c/_apis/work/boardbadge/b16e15ed-4252-4940-83e7-4cf2ee3d7e9d?columnOptions=1)](https://dev.azure.com/AbhinavDemoOrg/2edf3317-0861-44f1-b915-cfef10ca9971/_boards/board/t/3adaa1e9-9fd6-4c8c-843b-11b2e40a684c/Stories/)
+
 # Book Favorites App
 
 > [!NOTE]

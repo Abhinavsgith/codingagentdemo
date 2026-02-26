@@ -5,8 +5,9 @@
     "book-database": {
       "command": "node",
       "args": [
-        "/path-to/github-copilot-agent/book-database/build/index.js"
-      ]
+      "C:/ABHINAV/WORK/Decks, Demos/DecDemo/CodingAgentDemo/codingagentdemo/copilot-mcp/dist/index.js"
+    ]
+
     }
   }
 }
